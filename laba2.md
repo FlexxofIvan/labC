@@ -178,7 +178,7 @@ void HibbardSort(int a[], int n, int deg)
 ![](/images/image/Hibbard1.png)
 
 
-![](/images/image/Hibbard.png)
+![](/images/image/Hibbard(log).png)
 
 Логарифмический масштаб, O(n^1,7)
 
