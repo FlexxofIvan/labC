@@ -51,7 +51,7 @@ int search(int arr[],int size){
 ```
 
 ## Асимптотика
-![](FlexxofIvan/labC/images/usr.png)
+![](images/usr.png)
 O(n)
 # Бинарный поиск
 
