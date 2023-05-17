@@ -141,9 +141,11 @@ void insertionSort(int a[], int n)
 }
 ```
 ## Асимптотика
+
 ![](/images/image/shell(not log).png)
 
 ![](/images/image/shell(log).png)
+
 Логарифмический масштаб, O(n^1,52).
 
 # сортировка Хиббарда
@@ -176,6 +178,7 @@ void HibbardSort(int a[], int n, int deg)
 ![](/images/image/Hibbard(not log).png)
 
 ![](/images/image/Hibbard.png)
+
 Логарифмический масштаб, O(n^1,7)
 
 # Сортировка Фибоначчи
@@ -207,6 +210,7 @@ void FibSort(int a[], int n, std::vector <int> vect){
 
 
 ![](/images/image/Fibsort_log.png)
+
 Логарифмический масштаб, O(n^1,9)
 
 Shell: O(n^1,52) Hibbard: O(n^1,7) Fib: O(n^1,9) Странно, непонятно, возможно связано с архитектурой процессора.
