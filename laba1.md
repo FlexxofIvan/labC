@@ -51,7 +51,7 @@ int search(int arr[],int size){
 ```
 
 ## Асимптотика
-![](\image\usr.png)
+![](labC\image\usr.png)
 O(n)
 # Бинарный поиск
 
