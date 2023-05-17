@@ -111,10 +111,10 @@ return(changes);
 
 ### Асимптотика
 
-![](\image\rasch(time).png)
+![](/images/image/rasch(time).png)
 Зависимость от времени.
 
-![](\image\rp.png)
+![](/images/image/rp.png)
 Зависимость от перестановок.
 
 # Сортировка Шелла
@@ -141,9 +141,9 @@ void insertionSort(int a[], int n)
 }
 ```
 ## Асимптотика
-![](\image\shell(not log).png)
+![](/images/image/shell(not log).png)
 
-![](\image\shell(log).png)
+![](/images/image/shell(log).png)
 Логарифмический масштаб, O(n^1,52).
 
 # сортировка Хиббарда
@@ -173,9 +173,9 @@ void HibbardSort(int a[], int n, int deg)
 
 ## Асимптотика 
 
-![](\image\Hibbard(not log).png)
+![](/images/image/Hibbard(not log).png)
 
-![](\image\Hibbard.png)
+![](/images/image/Hibbard.png)
 Логарифмический масштаб, O(n^1,7)
 
 # Сортировка Фибоначчи
@@ -203,10 +203,10 @@ void FibSort(int a[], int n, std::vector <int> vect){
 
 ## Асимптотика
 
-![](\image\Fibsort(not log).png)
+![](/images/image/Fibsort(not log).png)
 
 
-![](\image\Fibsort_log.png)
+![](/images/image/Fibsort_log.png)
 Логарифмический масштаб, O(n^1,9)
 
 Shell: O(n^1,52) Hibbard: O(n^1,7) Fib: O(n^1,9) Странно, непонятно, возможно связано с архитектурой процессора.
