@@ -51,7 +51,7 @@ int search(int arr[],int size){
 ```
 
 ## Асимптотика
-![](/images/usr.png)
+![](/images/image/usr.png)
 O(n)
 # Бинарный поиск
 
@@ -76,7 +76,7 @@ int bin search(int arr[], int size) {
 ```
 
 ## Асимптотика
-![](/images/bins.png)
+![](/images/image/bins.png)
 O(log n) - работает быстрее обычного поиска.
 
 # Сумма двух 
@@ -95,7 +95,7 @@ return(-1);
 ```
 ## Асимптотика
 
-![](/images/sum2.png)
+![](/images/image/sum2.png)
 O(n^2) 
 ## Линейный поиск
 
@@ -121,7 +121,7 @@ return(-1);
 ```
  ## Асимптотика
 
-![](/images/suml.png)
+![](/images/image/suml.png)
 Действуя похожим образом как с бин поиском, можно улучшить скорость - O(n)
 # Часто используемый аргумент
 
@@ -147,11 +147,11 @@ int str A(int arr[],int size, int n){
 ```
 ### Равномерный поиск 
 
-![](/images/Aravn.png)
+![](/images/image/Aravn.png)
 
 ### Неравномерный поиск
 
-![](/images/Aneravn.png)
+![](/images/image/Aneravn.png)
 
 O(log n), вне зависимости от равномеррности поиска.
 ## Стратегия B
@@ -176,10 +176,10 @@ int strB(int arr[],int size, int n){
 ```
 
 ### Равномерный поиск
-![](/images/Bravn.png)
+![](/images/image/Bravn.png)
 
 ### Неравномерный поиск
-![](/images/Bneravn.png)
+![](/images/image/Bneravn.png)
 
 (log n), вне зависимости от равномеррности поиска.
 ## Стратегия С
@@ -207,10 +207,10 @@ int strC(int arr[], int counter[], int size, int n){
 }
 ```
 ### Равномерный поиск
-![](/images/Cravn.png)
+![](/images/image/Cravn.png)
 
 ### Неавномерный поиск
-![](/images/Cneravn.png)
+![](/images/image/Cneravn.png)
 
 O(n), вне зависимости от равномерности поиска.
 
