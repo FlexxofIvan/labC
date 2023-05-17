@@ -111,10 +111,12 @@ return(changes);
 
 ### Асимптотика
 
-![](/images/image/rasch(time).png)
+![](/images/image/rasch(time).png) 
+
 Зависимость от времени.
 
 ![](/images/image/rp.png)
+
 Зависимость от перестановок.
 
 # Сортировка Шелла
@@ -178,7 +180,7 @@ void HibbardSort(int a[], int n, int deg)
 ![](/images/image/Hibbard1.png)
 
 
-![](/images/image/Hibbard(log).png)
+![](/images/image/hibbard.png)
 
 Логарифмический масштаб, O(n^1,7)
 
