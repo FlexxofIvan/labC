@@ -142,7 +142,7 @@ void insertionSort(int a[], int n)
 ```
 ## Асимптотика
 
-![](/images/image/shell(not log).png)
+![](/images/image/shell.png)
 
 ![](/images/image/shell(log).png)
 
@@ -175,7 +175,7 @@ void HibbardSort(int a[], int n, int deg)
 
 ## Асимптотика 
 
-![](/images/image/Hibbard(not log).png)
+![](/images/image/Hibbard1.png)
 
 ![](/images/image/Hibbard.png)
 
@@ -206,7 +206,7 @@ void FibSort(int a[], int n, std::vector <int> vect){
 
 ## Асимптотика
 
-![](/images/image/Fibsort(not log).png)
+![](/images/image/Fibsort.png)
 
 
 ![](/images/image/Fibsort_log.png)
